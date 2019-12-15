@@ -1,4 +1,4 @@
-package com.beerhouse.reponses;
+package com.beerhouse.responses;
 
 
 public class CustomErrorMessage {
